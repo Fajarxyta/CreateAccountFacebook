@@ -11,4 +11,4 @@ python3 Run.py
 ```
 
 # Screenshot📸
-<img src="https://raw.githubusercontent.com/Fajarxyta/CreateAccountFacebook/main/img/20240907_194342.png"/>
+<img src="https://raw.githubusercontent.com/Fajarxyta/CreateAccountFacebook/main/img/Screenshot_2024-09-30-04-10-37-128_com.termux.jpg"/>
