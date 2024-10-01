@@ -9,5 +9,4 @@ pip install requests pytz faker bs4
 git clone https://github.com/Fajarxyta/CreateAccountFacebook
 cd CreateAccountFacebook
 python3 Run.py
-
 ```
